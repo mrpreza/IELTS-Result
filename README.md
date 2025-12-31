@@ -1,2 +1,53 @@
 # IELTS-Result
 IELTS Result
+Here is a suggested **README.md** for your GitHub repository based on the IELTS Test Report Form:
+
+---
+
+# IELTS Test Report Form - AM009
+
+## Overview
+
+This repository contains the IELTS Test Report Form (TRF) for the candidate **Reza Pak Tinat Keleshteri**. The form provides the candidate's scores across various IELTS components and overall performance details.
+
+## Test Details
+
+* **Candidate Name:** Reza Pak Tinat Keleshteri
+* **Test Type:** Academic
+* **Date of Birth:** 14/05/2002
+* **Country of Origin:** Iran (Islamic Republic of)
+* **First Language:** Farsi
+* **Test Date:** 23rd December 2025
+* **Test Report Form Number:** 25AM501228PAKR009A
+* **Validation:** This TRF can be verified at [IELTS Verification](https://ielts.org/verify)
+
+## IELTS Band Scores
+
+* **Listening:** 8.5
+* **Reading:** 7.0
+* **Writing:** 6.5
+* **Speaking:** 7.0
+* **Overall Band Score:** 7.5
+* **CEFR Level:** C1
+
+## Image of Test Report Form
+
+![IELTS Test Report](./test_report_form_image.png)
+*Note: This image represents the official IELTS test report for Reza Pak Tinat Keleshteri.*
+
+## Additional Information
+
+* This IELTS score can be used for academic applications and further language proficiency evaluations.
+* It is recommended to re-assess language ability two years after the test date.
+
+## Usage
+
+This repository serves as a record of the IELTS test score and can be used to verify the language proficiency of the candidate for various academic or professional purposes.
+
+## License
+
+This repository is not licensed for public usage outside of personal record-keeping and verification purposes.
+
+---
+
+You can add or modify sections based on further needs or context around the repository’s purpose. Let me know if you'd like to adjust anything!
