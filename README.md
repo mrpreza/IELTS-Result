@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains my IELTS Test Report Form (TRF) for  **Reza Pak Tinat Keleshteri**. The form provides the my scores across various IELTS components and overall performance details.
+This repository contains my IELTS Test Report Form (TRF) for  **Reza Pak Tinat Keleshteri**. The form provides  my scores across various IELTS components and overall performance details.
 
 ## Test Details
 
