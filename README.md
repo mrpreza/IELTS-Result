@@ -1,8 +1,3 @@
-# IELTS-Result
-IELTS Result
-Here is a suggested **README.md** for your GitHub repository based on the IELTS Test Report Form:
-
----
 
 # IELTS Test Report Form - AM009
 
@@ -48,6 +43,3 @@ This repository serves as a record of the IELTS test score and can be used to ve
 
 This repository is not licensed for public usage outside of personal record-keeping and verification purposes.
 
----
-
-You can add or modify sections based on further needs or context around the repository’s purpose. Let me know if you'd like to adjust anything!
