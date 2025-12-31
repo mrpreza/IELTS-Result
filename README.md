@@ -25,10 +25,7 @@ This repository contains the IELTS Test Report Form (TRF) for the candidate **Re
 * **Overall Band Score:** 7.5
 * **CEFR Level:** C1
 
-## Image of Test Report Form
 
-![IELTS Test Report](./test_report_form_image.png)
-*Note: This image represents the official IELTS test report for Reza Pak Tinat Keleshteri.*
 
 ## Additional Information
 
