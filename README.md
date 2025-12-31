@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the IELTS Test Report Form (TRF) for the candidate **Reza Pak Tinat Keleshteri**. The form provides the candidate's scores across various IELTS components and overall performance details.
+This repository contains my IELTS Test Report Form (TRF) for the  **Reza Pak Tinat Keleshteri**. The form provides the my scores across various IELTS components and overall performance details.
 
 ## Test Details
 
@@ -38,5 +38,5 @@ This repository serves as a record of the IELTS test score and can be used to ve
 
 ## License
 
-This repository is not licensed for public usage outside of personal record-keeping and verification purposes.
+This repository does not include a formal open-source license as it is meant for personal and professional use only. The contents should not be redistributed or reused without explicit permission.
 
